@@ -1,0 +1,10 @@
+flask
+flask-restful
+pytest
+flask-sqlalchemy
+pymysql
+flask-script
+requests
+flask-jwt-extended
+flask-migrate
+flask-cors
